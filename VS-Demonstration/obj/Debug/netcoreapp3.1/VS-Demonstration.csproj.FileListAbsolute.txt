@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\bin\Debug\netcoreapp3.1\VS-Demonstration.exe
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\bin\Debug\netcoreapp3.1\VS-Demonstration.deps.json
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\bin\Debug\netcoreapp3.1\VS-Demonstration.runtimeconfig.json
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\bin\Debug\netcoreapp3.1\VS-Demonstration.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\bin\Debug\netcoreapp3.1\VS-Demonstration.dll
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\bin\Debug\netcoreapp3.1\VS-Demonstration.pdb
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\obj\Debug\netcoreapp3.1\VS-Demonstration.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\obj\Debug\netcoreapp3.1\VS-Demonstration.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\obj\Debug\netcoreapp3.1\VS-Demonstration.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\obj\Debug\netcoreapp3.1\VS-Demonstration.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\obj\Debug\netcoreapp3.1\VS-Demonstration.dll
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\obj\Debug\netcoreapp3.1\VS-Demonstration.pdb
+C:\Users\Lenovo\source\repos\VS-Demonstration\VS-Demonstration\obj\Debug\netcoreapp3.1\VS-Demonstration.genruntimeconfig.cache
