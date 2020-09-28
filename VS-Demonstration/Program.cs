@@ -6,7 +6,9 @@ namespace VS_Demonstration
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("The is a demonstration for Git-first using Github! ");
         }
+
+        static int Add(int a, int b) => a + b;
     }
 }
